@@ -1,6 +1,6 @@
 Console.WriteLine ("Saaid Mohanna 👨‍💻");
 
-💼 Trabalho atualmente como Desenvolvedor na IOB
+💼 Trabalho atualmente como Desenvolvedor FullStack Stoqui.
 
 💡 Sou apaixonado por tecnologia e estou sempre buscando me aprimorar como dev
 
